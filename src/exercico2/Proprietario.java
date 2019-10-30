@@ -1,3 +1,5 @@
+package exercico2;
+
 public class Proprietario {
     private String nome;
     private  Integer cpf;

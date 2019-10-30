@@ -1,3 +1,5 @@
+package exercico2;
+
 public class Marca {
     private  String nome;
     private String dataDeFabricacao;

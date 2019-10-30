@@ -1,3 +1,5 @@
+package exercico2;
+
 public class Endereco {
     private String rua;
     private Integer numero;

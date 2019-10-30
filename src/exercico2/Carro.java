@@ -1,3 +1,5 @@
+package exercico2;
+
 public class Carro {
     private String modelo;
     private String cor;
